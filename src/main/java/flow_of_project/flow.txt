@@ -1,0 +1,16 @@
+//say hello jsp 
+---use controller
+
+jsp file is the html output page 
+
+use of @controller
+
+//loginn jsp
+--login controller
+
+//for every todo we want :
+id
+username
+description
+targetdate
+done or todo
